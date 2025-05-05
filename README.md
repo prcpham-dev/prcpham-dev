@@ -13,7 +13,7 @@
              ╚═╝░░╚═╝░╚═════╝░╚═════╝░╚══════╝╚═╝░░░░░░╚════╝░░╚═════╝░        
 
      * Totally not the vibe of UNDERTALE.
-     * But somehow... it feels like home.
+     * Something related to determination should be included here.
      
                    J   U   S   T     P   E   R   C   Y     A   R   C   H   I   V   E
 
@@ -23,7 +23,7 @@ I'm born to sleep 🛌, forced to work 💻
 ```js
 while(alive) {
   eat();              // Sushi
-  sleep();            // > 8 hours
+  sleep();            // > 8 hours =((
   code();             // What with these bugs
 
   if(isWeekend) {
