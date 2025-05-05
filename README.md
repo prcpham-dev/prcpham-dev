@@ -1,3 +1,2 @@
-### Hi, I'm Percy  
-🛌 Born to sleep  
-💻 Forced to work  
+### Just Percy things:
+**About me:** I'm born to sleep, forced to work.
