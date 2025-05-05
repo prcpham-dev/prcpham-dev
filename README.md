@@ -8,8 +8,8 @@
 
      * Totally not UNDERTALE vibe.
      * Something related to determination should be included here.
-     
-                   J   U   S   T     P   E   R   C   Y     A   R   C   H   I   V   E
+
+        J   U   S   T     P   E   R   C   Y     A   R   C   H   I   V   E
 
 
 💬 About Me:
