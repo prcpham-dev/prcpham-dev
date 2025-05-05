@@ -19,8 +19,8 @@
 
           while(alive) {
                 eat();               // Sushi please
-                sleep();             // < 8 hours =((
                 code();              // What with these bugs
+                sleep();             // < 7 hours =((
           
                 if(isWeekend) {
                       takeABreak();  // Finally...
