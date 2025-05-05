@@ -18,12 +18,12 @@
 🔁 Currently surviving with
 
           while(alive) {
-                eat();                  // Sushi
-                sleep();                // > 8 hours =((
-                code();                 // What with these bugs
+                eat();               // Sushi please
+                sleep();             // < 8 hours =((
+                code();              // What with these bugs
           
                 if(isWeekend) {
-                      takeABreak();     // Finally
+                      takeABreak();  // Finally...
                 }
           }
 ```
