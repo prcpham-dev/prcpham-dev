@@ -17,12 +17,12 @@
 💻 Forced to work  
 🔁 Currently surviving with
 
-      while(alive) {
+      while (alive) {
             eat();               // Sushi please
             code();              // What with these bugs
             sleep();             // < 7 hours =((
       
-            if(isWeekend) {
+            if (isWeekend) {
                   takeABreak();  // Finally...
             }
       }
