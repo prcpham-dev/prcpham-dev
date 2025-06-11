@@ -20,7 +20,7 @@
       while (alive) {
             eat();               // Sushi please
             code();              // What with these bugs
-            sleep();             // < 7 hours =((
+            sleep();             // > 7 hours =((
       
             if (isWeekend) {
                   takeABreak();  // Finally...
