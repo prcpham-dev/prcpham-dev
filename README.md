@@ -5,9 +5,9 @@
 🔁 Currently surviving with
 
       while (alive) {
-            eat();               // Sushi please
-            code();              // What with these bugs
-            sleep();             // > 7 hours =((
+            eat();           // Sushi, hotpot, anything...
+            code();          // Bugs. Debugs. More bugs.
+            sleep();         // > 7 hours please !!! 
       
             if (isWeekend) {
                   takeABreak();  // Finally...
