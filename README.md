@@ -5,11 +5,11 @@
 🔁 Surviving with
             
             while (alive) {
-                  eat();           // 🍣 Sushi, 🍲 hotpot, 🥩 anything edible...
-                  code();          // Bugs. Debugs. More bugs.
-                  sleep();         // 😴 7+ hours or system failure.
+                  eatSomething();     // 🍣 Sushi, 🍲 hotpot, 🥩 anything edible...
+                  writeCode();        // Bugs. Debugs. More bugs.
+                  sleep();            // 😴 7+ hours or system failure.
                   if (isWeekend) {
-                        takeABreak();  // ☕ + 📺+💤 = bliss
+                        haveALife();       // Go outside...
                   }
             }
 ```
