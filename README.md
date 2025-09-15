@@ -7,7 +7,7 @@
             while (alive) {
                   eatSomething();     // 🍣 Sushi, 🥩 anything edible...
                   writeCode();        // Bugs. Debugs. More bugs.
-                  sleep();            // 😴 7+ hours or system failure.
+                  sleep();            // 😴 Maybe 7+ hours.
                   if (isWeekend) {
                         haveALife();         // 🌤️ Go outside...
                   }
