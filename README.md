@@ -5,7 +5,7 @@
 🔁 Surviving with
             
             while (alive) {
-                  eatSomething();     // 🍣 Sushi, 🍲 hotpot, 🥩 anything edible...
+                  eatSomething();     // 🍣 Sushi, 🥩 anything edible...
                   writeCode();        // Bugs. Debugs. More bugs.
                   sleep();            // 😴 7+ hours or system failure.
                   if (isWeekend) {
